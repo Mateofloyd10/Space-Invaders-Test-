@@ -1,0 +1,1512 @@
+fileFormatVersion: 2
+guid: 60a6982ea77d4184bacebb444a0a0745
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3527217611453642777
+    second: 3raNave_0
+  - first:
+      213: 5254827759364273784
+    second: 3raNave_1
+  - first:
+      213: 6456742147597972886
+    second: 3raNave_2
+  - first:
+      213: 579186191623146359
+    second: 3raNave_3
+  - first:
+      213: -3201816458492519367
+    second: 3raNave_4
+  - first:
+      213: 8103469789322423757
+    second: 3raNave_5
+  - first:
+      213: -6840495914581196252
+    second: 3raNave_6
+  - first:
+      213: 875522922493784727
+    second: 3raNave_7
+  - first:
+      213: 1424460282371750856
+    second: 3raNave_8
+  - first:
+      213: -9131558225289571682
+    second: 3raNave_9
+  - first:
+      213: -1415797733894241977
+    second: 3raNave_10
+  - first:
+      213: 561065805955433640
+    second: 3raNave_11
+  - first:
+      213: 3935916880914686634
+    second: 3raNave_12
+  - first:
+      213: 8667477654291712661
+    second: 3raNave_13
+  - first:
+      213: -7960365530525312537
+    second: 3raNave_14
+  - first:
+      213: 524845037902515207
+    second: 3raNave_15
+  - first:
+      213: -5981402664547953396
+    second: 3raNave_16
+  - first:
+      213: 2622605709736226092
+    second: 3raNave_17
+  - first:
+      213: -6211860248862396730
+    second: 3raNave_18
+  - first:
+      213: 4174466087151179036
+    second: 3raNave_19
+  - first:
+      213: -2826960259466129107
+    second: 3raNave_20
+  - first:
+      213: -5166395766587325836
+    second: 3raNave_21
+  - first:
+      213: 248513325291875217
+    second: 3raNave_22
+  - first:
+      213: -3765241069654204820
+    second: 3raNave_23
+  - first:
+      213: -1172123936234957222
+    second: 3raNave_24
+  - first:
+      213: 8336178261628211323
+    second: 3raNave_25
+  - first:
+      213: 2707772541688156351
+    second: 3raNave_26
+  - first:
+      213: 7909029237208022763
+    second: 3raNave_27
+  - first:
+      213: 8553714168114361206
+    second: 3raNave_28
+  - first:
+      213: 6116360632174320903
+    second: 3raNave_29
+  - first:
+      213: -4866367712020981262
+    second: 3raNave_30
+  - first:
+      213: 7729504883059436685
+    second: 3raNave_31
+  - first:
+      213: -4315842501519898690
+    second: 3raNave_32
+  - first:
+      213: -6728363405767889721
+    second: 3raNave_33
+  - first:
+      213: -7828507852684951613
+    second: 3raNave_34
+  - first:
+      213: 2897876079121969859
+    second: 3raNave_35
+  - first:
+      213: -8994939271213179163
+    second: 3raNave_36
+  - first:
+      213: 1657655420108307149
+    second: 3raNave_37
+  - first:
+      213: 3779204924870742419
+    second: 3raNave_38
+  - first:
+      213: 1011711140771163456
+    second: 3raNave_39
+  - first:
+      213: 3137778434209441378
+    second: 3raNave_40
+  - first:
+      213: 7944190618879908721
+    second: 3raNave_41
+  - first:
+      213: 5126262175440563083
+    second: 3raNave_42
+  - first:
+      213: 4914029824232891085
+    second: 3raNave_43
+  - first:
+      213: -5179817848643048653
+    second: 3raNave_44
+  - first:
+      213: 1405882350620322
+    second: 3raNave_45
+  - first:
+      213: -8448093187424863657
+    second: 3raNave_46
+  - first:
+      213: 9033546013432272007
+    second: 3raNave_47
+  - first:
+      213: 247810664426144368
+    second: 3raNave_48
+  - first:
+      213: 831408343145667146
+    second: 3raNave_49
+  - first:
+      213: -3462619864557392234
+    second: 3raNave_50
+  - first:
+      213: -3542049738872429035
+    second: 3raNave_51
+  - first:
+      213: -2985812752573055694
+    second: 3raNave_52
+  - first:
+      213: 6906967969818734100
+    second: 3raNave_53
+  - first:
+      213: -4452325393921472742
+    second: 3raNave_54
+  - first:
+      213: -573859217295592365
+    second: 3raNave_55
+  - first:
+      213: -4441778698402722851
+    second: 3raNave_56
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3raNave_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 297
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9183238cab133f030800000000000000
+      internalID: 3527217611453642777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 301
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876f4c08106ece840800000000000000
+      internalID: 5254827759364273784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 306
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695bed126c4fa9950800000000000000
+      internalID: 6456742147597972886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 343
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b428ac5cea90800800000000000000
+      internalID: 579186191623146359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 310
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cdd8b15ecd093d0800000000000000
+      internalID: -3201816458492519367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_5
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 283
+        width: 115
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd2ca0e6de457070800000000000000
+      internalID: 8103469789322423757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 339
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42280eb453da111a0800000000000000
+      internalID: -6840495914581196252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_7
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 299
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79234f3957b762c00800000000000000
+      internalID: 875522922493784727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_8
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 289
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbbb676413b4c310800000000000000
+      internalID: 1424460282371750856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 331
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9291d7dc20364180800000000000000
+      internalID: -9131558225289571682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_10
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 325
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7414e6556731a5ce0800000000000000
+      internalID: -1415797733894241977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 292
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4879bb06e49c700800000000000000
+      internalID: 561065805955433640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_12
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 310
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa22260cc8f2f9630800000000000000
+      internalID: 3935916880914686634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_13
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 295
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a81ba1101194870800000000000000
+      internalID: 8667477654291712661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_14
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 289
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e956cec9b9178190800000000000000
+      internalID: -7960365530525312537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_15
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 286
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c4e4ef7cf984700800000000000000
+      internalID: 524845037902515207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_16
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 292
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c055b09a7f9cdfca0800000000000000
+      internalID: -5981402664547953396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_17
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 206
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d2db27ffd556420800000000000000
+      internalID: 2622605709736226092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 263
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ceef28f30a0bc9a0800000000000000
+      internalID: -6211860248862396730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 195
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c159f8bf9ceaee930800000000000000
+      internalID: 4174466087151179036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_20
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 189
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2110643f9e94c8d0800000000000000
+      internalID: -2826960259466129107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_21
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 197
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4720b7b4c664d48b0800000000000000
+      internalID: -5166395766587325836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 206
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b29fb7d85e27300800000000000000
+      internalID: 248513325291875217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_23
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 253
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e9c8d323d2fbbc0800000000000000
+      internalID: -3765241069654204820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_24
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 210
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a569bfb7d77cbbfe0800000000000000
+      internalID: -1172123936234957222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_25
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 199
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70dea446fd00b370800000000000000
+      internalID: 8336178261628211323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_26
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 210
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb011efb7c0f39520800000000000000
+      internalID: 2707772541688156351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_27
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 217
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee76f9ff2482cd60800000000000000
+      internalID: 7909029237208022763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_28
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 210
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673bea467b5e4b670800000000000000
+      internalID: 8553714168114361206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 189
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d1feec69da1e450800000000000000
+      internalID: 6116360632174320903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_30
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 189
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f91f8a5950377cb0800000000000000
+      internalID: -4866367712020981262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_31
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 186
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ca76c0db7b44b60800000000000000
+      internalID: 7729504883059436685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 110
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb78f567c1c0b14c0800000000000000
+      internalID: -4315842501519898690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_33
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 139
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cca77f712d00a2a0800000000000000
+      internalID: -6728363405767889721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_34
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 89
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf7b5fc59d8b5390800000000000000
+      internalID: -7828507852684951613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_35
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 125
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2ba2bb0f2573820800000000000000
+      internalID: 2897876079121969859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_36
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 86
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee902bd36e8b2380800000000000000
+      internalID: -8994939271213179163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca7e8b62dc210710800000000000000
+      internalID: 1657655420108307149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_38
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 4
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391d3582bde627430800000000000000
+      internalID: 3779204924870742419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 4
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d68f81ce15a0e00800000000000000
+      internalID: 1011711140771163456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_40
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 3
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2666fea7cd0ab8b20800000000000000
+      internalID: 3137778434209441378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_41
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 3
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bd35a174f6f3e60800000000000000
+      internalID: 7944190618879908721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_42
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 3
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8be7a8d944242740800000000000000
+      internalID: 5126262175440563083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_43
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 26
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2a319e614223440800000000000000
+      internalID: 4914029824232891085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_44
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 36
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b276a4c179d18b0800000000000000
+      internalID: -5179817848643048653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_45
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 42
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aeca1e74aef40000800000000000000
+      internalID: 1405882350620322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_46
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 20
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ab426810852ca80800000000000000
+      internalID: -8448093187424863657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_47
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 17
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784d6c8cc3a9d5d70800000000000000
+      internalID: 9033546013432272007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_48
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 11
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0728ca08c76607300800000000000000
+      internalID: 247810664426144368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_49
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 15
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a5e7cab71c98b00800000000000000
+      internalID: 831408343145667146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_50
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e68d4349d42ffc0800000000000000
+      internalID: -3462619864557392234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_51
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 15
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5166eb1778c18dec0800000000000000
+      internalID: -3542049738872429035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_52
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 17
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d3d0dfe134096d0800000000000000
+      internalID: -2985812752573055694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_53
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 6
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41eeb0c16ca7adf50800000000000000
+      internalID: 6906967969818734100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_54
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 0
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a170cd6c4a92632c0800000000000000
+      internalID: -4452325393921472742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_55
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 3
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3543302151e3908f0800000000000000
+      internalID: -573859217295592365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3raNave_56
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 4
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb0fceaec1ab52c0800000000000000
+      internalID: -4441778698402722851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
